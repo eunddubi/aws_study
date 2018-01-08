@@ -16,6 +16,7 @@ gem 'carrierwave', '~> 1.0'
 gem 'mini_magick'
 
 gem 'figaro'
+gem 'simple_form'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.9'
