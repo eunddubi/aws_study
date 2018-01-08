@@ -245,3 +245,4 @@ $ rake db:migrate
   ```
 
   ​
+# aws_study
